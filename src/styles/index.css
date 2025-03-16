@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.app {
+	background: url('../assets/bg.jpg') center / cover no-repeat;
+}

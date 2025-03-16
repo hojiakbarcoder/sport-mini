@@ -1,0 +1,56 @@
+{
+	"players": [
+		{
+			"id": "ab154934-1c59-4344-803b-38e7258c20a6",
+			"name": "Odil Akhmedov",
+			"country": "England",
+			"continent": "Europe"
+		},
+		{
+			"id": "43c42e00-59e2-4239-89b8-6788b974ba47",
+			"name": "Akbar",
+			"country": "Uzbekistan",
+			"continent": "Asia"
+		},
+		{
+			"id": "51d51ee5-c4e3-4280-b7b9-41e63a5b30d5",
+			"name": "Akbar",
+			"country": "England",
+			"continent": "Africa"
+		},
+		{
+			"id": "b78c3c63-e6e5-4482-9805-c4b2a627b7d1",
+			"name": "Akbar",
+			"country": "Uzbekistan",
+			"continent": "Europe"
+		},
+		{
+			"id": "f7bed4f2-b12a-492d-bf34-814f136ee444",
+			"name": "Akbar",
+			"country": "England",
+			"continent": "Europe"
+		}
+	],
+	"filters": [
+		{
+			"id": "all",
+			"label": "All",
+			"colors": "bg-gradient-to-r from-black to-slate-600 rounded-l-md"
+		},
+		{
+			"id": "europe",
+			"label": "Europe",
+			"colors": "bg-gradient-to-r from-blue-500 to-blue-700"
+		},
+		{
+			"id": "asia",
+			"label": "Asia",
+			"colors": "bg-gradient-to-r from-yellow-500 to-yellow-700"
+		},
+		{
+			"id": "africa",
+			"label": "Africa",
+			"colors": "bg-gradient-to-r from-green-500 to-green-700 rounded-r-md"
+		}
+	]
+}
