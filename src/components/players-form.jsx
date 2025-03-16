@@ -23,7 +23,7 @@ const PlayersForm = () => {
 		}
 		console.log(data)
 
-		request('http://localhost:3000/players', 'GET', JSON.stringify(data))
+		request('http://localhost:3000/players', 'POST', JSON.stringify(data))
 			.then(res => console.log(res, 'successful'))
 			.then(dispatch(playerCreated(data)))
 			.catch(e => console.log(e))

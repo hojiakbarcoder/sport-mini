@@ -1,22 +1,22 @@
 {
   "players": [
     {
-      "id": "bc9c1df0-fcef-400e-8185-de0bbf290641",
-      "name": "odil akhmedov",
+      "id": "06b09783-8dce-4fd8-8c45-0d309d623235",
+      "name": "odil ahmedov",
       "country": "uzb",
-      "continent": "Europe"
+      "continent": "Africa"
     },
     {
-      "id": "f194420e-5ff0-4d04-a6c0-2bfe2747c536",
-      "name": "odil akhmedov",
-      "country": "uzb",
-      "continent": "Europe"
-    },
-    {
-      "id": "4be924be-72a9-4e60-913d-5799030f00f1",
+      "id": "35e22f27-6f83-47b8-ac00-79be93e051a9",
       "name": "dkjf",
-      "country": "jksdf",
-      "continent": "Asia"
+      "country": "uzb",
+      "continent": "Africa"
+    },
+    {
+      "id": "e1a30547-9052-4ad0-9b9f-5a77189df22f",
+      "name": "dkjf",
+      "country": "uzb",
+      "continent": "Europe"
     }
   ],
   "filters": [
